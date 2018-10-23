@@ -60,7 +60,10 @@ See figure 1 for an example.
 First we want to implement the user's array of nodes for each website, then we would implement the hashtable that holds the nodes. Once these are all working, we would then work on the graphic user interface starting with the home screen followed by the main screen once the user is logged in.
 
 
-Name each interface or class and briefly describe its function or purpose.
+6. Name each interface or class and briefly describe its function or purpose.
+HashTableADT: Interface that defines the hash table
+HashTable: Data structure to hold Nodes containing each user's username and password for each website.
+Node: static class in the HashTable class representing a single user's data.
 
 
 ## Edit and Submit this file and any figures referenced by this document.
