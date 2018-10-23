@@ -63,7 +63,9 @@ First we want to implement the user's array of nodes for each website, then we w
 6. Name each interface or class and briefly describe its function or purpose.
 
 HashTableADT: Interface that defines the hash table
+
 HashTable: Data structure to hold Nodes containing each user's username and password for each website.
+
 Node: static class in the HashTable class representing a single user's data.
 
 
