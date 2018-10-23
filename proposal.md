@@ -32,7 +32,7 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 Briefly describe a problem that your team would like to solve.  
 Describe at a high level a program that could solve that problem.
 
-*People in an increasingly digital world have usernames and passwords to countless webistes.
+*People in an increasingly digital world have usernames and passwords to countless websites.
 Remembering all of their credentials can be a daunting task. Our program seeks to enable
 users to have a safe place to store all of their usernames and passwords so that they
 never again have to click on that dreaded "Forgot your password?" button.*
@@ -44,11 +44,11 @@ never again have to click on that dreaded "Forgot your password?" button.*
 *Password Puppy*
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
-
+It will output a list of website, username, and password pairs.
 
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
-
+Input your username and password for *Password Puppy*.
 
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
