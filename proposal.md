@@ -1,4 +1,4 @@
-# X-Team NN Project Proposal
+# X-Team 31 Project Proposal *Password Puppy*
 
 See https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code for tips on using *Markdown* tags to format __.md__ files
 
@@ -32,11 +32,16 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 Briefly describe a problem that your team would like to solve.  
 Describe at a high level a program that could solve that problem.
 
+*People in an increasingly digital world have usernames and passwords to countless webistes.
+Remembering all of their credentials can be a daunting task. Our program seeks to enable
+users to have a safe place to store all of their usernames and passwords so that they
+never again have to click on that dreaded "Forgot your password?" button.*
+
 ## Questions to answer for Exercise #2
 
 1. Name: Give your project proposal a name (and edit the top line of this file)
 
-
+*Password Puppy*
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
 
