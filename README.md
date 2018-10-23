@@ -12,8 +12,10 @@
        * GitHub username 3: hannahlbeers           name 3: Hannah Beers
        * GitHub username 4: silas-setterstrom      name 4: Silas Setterstrom
    * When did you complete this exercise? 
+   
    *Tuesday, October 23rd, after lecture*
    * How long did it take your team to complete this exercise? 
+   
    *about 2 hours*
 
 ## Table of Contents
