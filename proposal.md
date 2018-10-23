@@ -57,7 +57,7 @@ See figure 1 for an example.
 
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
-
+First we want to implement the user's array of nodes for each website, then we would implement the hashtable that holds the nodes. Once these are all working, we would then work on the graphic user interface starting with the home screen followed by the main screen once the user is logged in.
 
 
 Name each interface or class and briefly describe its function or purpose.
