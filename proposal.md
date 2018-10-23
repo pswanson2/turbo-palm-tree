@@ -52,7 +52,8 @@ Input your username and password for *Password Puppy*.
 
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
-
+The user interface will be a simple white background containing a two blank text boxes. The user will input their username into the first box and their password into the second box. The user's password information will appear if their username and password match. There will also be add, delete, and update buttons to add website, username, and password combinations. 
+See figure 1 for an example.   
 
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
